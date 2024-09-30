@@ -1,0 +1,6 @@
+﻿namespace PersonalityTest.Application.Common.Interfaces;
+
+public interface IUser
+{
+    string? Id { get; }
+}
